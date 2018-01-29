@@ -1,0 +1,7 @@
+{
+  "name": "Test server pressure",
+  "version": "1.0",
+  "dependencies": {
+    "superagent": "^3.8.2"
+  }
+}
